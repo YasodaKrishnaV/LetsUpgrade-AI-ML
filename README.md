@@ -1,2 +1,2 @@
-# LetsUpgrade-Artificial Intelignce And Machine Learning
+# LetsUpgrade-Artificial Inteligence And Machine Learning
 ## Assignments Uploads
